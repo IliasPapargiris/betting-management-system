@@ -21,7 +21,7 @@ This project is a Betting Management System built with Spring Boot. It provides 
 
 ## Prerequisites
 
-- **Docker** and **Docker Compose** installed on your machine.
+- **Docker** installed on your machine.
 
 ## Getting Started
 
